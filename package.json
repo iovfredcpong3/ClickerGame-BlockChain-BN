@@ -1,4 +1,7 @@
 {
+  "scripts": {
+  "start": "node server.js"
+  }
   "name": "test",
   "version": "1.0.0",
   "description": "",
@@ -21,3 +24,4 @@
     "web3": "^4.15.0"
   }
 }
+
